@@ -1,7 +1,7 @@
 <?php
 
 /******************************************
-			Asisten Pemrogaman 13
+	   Asisten Pemrogaman 13
  ******************************************/
 
 class Pasien
