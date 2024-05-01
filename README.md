@@ -1,8 +1,8 @@
 
-# LP11DPBO2024C1
+# LP10DPBO2024C1
 
 ## JANJI
-*Saya Alif Faturahman Firdaus (2107377) mengerjakan Latihan Praktikum 11 dalam mata kuliah DPBO untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.*
+*Saya Alif Faturahman Firdaus (2107377) mengerjakan Latihan Praktikum 10 dalam mata kuliah DPBO untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.*
 
 ## TUGAS
 Mengunduh project yang bisa didapat pada link : https://drive.google.com/file/d/1tG7_LliwN2ebqQR-Leo4BK1mNq381HBb/view?usp=sharing  
