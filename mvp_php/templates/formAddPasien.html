@@ -1,5 +1,5 @@
 <!-- 
-    Saya Alif Faturahman Firdaus (2107377) mengerjakan Latihan Praktikum 11 dalam mata kuliah DPBO 
+    Saya Alif Faturahman Firdaus (2107377) mengerjakan Latihan Praktikum 10 dalam mata kuliah DPBO 
     untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. 
     Aamiin. 
 -->
